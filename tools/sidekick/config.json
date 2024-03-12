@@ -1,6 +1,6 @@
 {
-    "project": "SecurBank",
-    "host": "www.securbankdemo.com",
+    "project": "Tennis Austrlalia",
+    "host": "main--tennisaustralia--wfranksadobe.hlx.live",
     "plugins": [
         {
           "id": "library",
