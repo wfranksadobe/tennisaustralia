@@ -60,6 +60,10 @@ header nav p {
 }
 
 header nav a:any-link {
+  color: currentcolor;
+}
+
+header nav-sections a:any-link {
   color: #FFFFFF;
 }
 
